@@ -1,5 +1,5 @@
 {
-  "extends": "../build-config/tsconfig.base",
+  "extends": "../../packages/build-config/tsconfig.base",
   "compilerOptions": {
     "noEmit": false,
     "allowJs": false,
